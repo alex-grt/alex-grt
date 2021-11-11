@@ -13,7 +13,9 @@
 
 #### Statistics:
 <div>
-  
+  <a href="https://github-readme-stats.vercel.app/api?username=alex-grt&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api?username=alex-grt&show_icons=true&theme=default" align="left" height="140">
+  </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-grt&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alex-grt&layout=compact" align="left" height="140">
   </a>
