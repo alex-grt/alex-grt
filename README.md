@@ -1,7 +1,7 @@
-# Александр Карякин / Alex-grt
+# Alexander Karyakin / Alex-grt
 ### Front-end Developer
 
-#### Стек:
+#### Stack:
 <p>  
   <img src="https://raw.githubusercontent.com/alex-grt/alex-grt/main/html5-E34F26-05.svg" height="42" alt="HTML5">
   <img src="https://raw.githubusercontent.com/alex-grt/alex-grt/main/css3-1572B6-05.svg" height="42" alt="CSS3">
@@ -11,7 +11,7 @@
   <img src="https://raw.githubusercontent.com/alex-grt/alex-grt/main/gnubash-4EAA25-02.svg" height="42" alt="GNU Bash">
 </p>
 
-#### Статистика:
+#### Statistics:
 <div>
   <a href="https://github-readme-stats.vercel.app/api?username=alex-grt&show_icons=true&theme=radical">
     <img src="https://github-readme-stats.vercel.app/api?username=alex-grt&show_icons=true&theme=default" align="left" height="140">
