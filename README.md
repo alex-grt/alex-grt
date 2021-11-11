@@ -1,4 +1,4 @@
-# Alex-grt
+# Александр Карякин / Alex-grt
 ### Front-end Developer
 
 #### Стек:
