@@ -3,7 +3,7 @@
 
 #### Стек:
 <p>
-<img src="https://simpleicons.org/icons/css3.svg" background="#ffffff" height="24" alt="CSS3" >
+<img src="https://simpleicons.org/icons/css3.svg" background-color="#ffffff" height="24" alt="CSS3" >
 </p>
 
 <!--
