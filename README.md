@@ -1,6 +1,6 @@
-### Alex-grt
-#### Front-end Developer
-............................
+# Alex-grt
+## Front-end Developer
+----
 
 <!--
 **alex-grt/alex-grt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
