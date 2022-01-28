@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="express-fdfdfd-353535.svg"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Express</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#fdfdff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="27.812867"
+     inkscape:cx="8.2399482"
+     inkscape:cy="14.2287"
+     inkscape:window-x="0"
+     inkscape:window-y="1080"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4"
+     inkscape:pagecheckerboard="true" />
+  <title
+     id="title2">Express</title>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="фон"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:1;fill:#fdfdfd;fill-opacity:0.99470903;stroke:none;stroke-width:0.24649325;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect4594"
+       width="24"
+       height="24"
+       x="0"
+       y="5.3290705e-15" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="текст"
+     sodipodi:insensitive="true">
+    <path
+       d="m 24,18.588 a 1.529,1.529 0 0 1 -1.895,-0.72 l -3.45,-4.771 -0.5,-0.667 -4.003,5.444 a 1.466,1.466 0 0 1 -1.802,0.708 l 5.158,-6.92 -4.798,-6.251 a 1.595,1.595 0 0 1 1.9,0.666 l 3.576,4.83 3.596,-4.81 A 1.435,1.435 0 0 1 23.57,5.429 L 21.708,7.9 19.186,11.183 a 0.666,0.666 0 0 0 0,0.994 l 4.804,6.412 z M 0.002,11.576 0.422,9.501 c 1.154,-4.103 5.858,-5.81 9.094,-3.27 1.895,1.489 2.368,3.597 2.275,5.973 H 1.116 C 0.943,16.447 4.005,19.009 7.92,17.7 a 4.078,4.078 0 0 0 2.582,-2.876 c 0.207,-0.666 0.548,-0.78 1.174,-0.588 A 5.417,5.417 0 0 1 9.087,18.193 6.272,6.272 0 0 1 1.781,17.26 6.575,6.575 0 0 1 0.141,13.402 c 0,-0.235 -0.08,-0.455 -0.134,-0.666 A 88.33,88.33 0 0 1 0,11.577 Z M 1.129,11.29 h 9.654 C 10.723,8.214 8.782,6.032 6.193,6.012 3.311,5.972 1.249,8.106 1.122,11.276 Z"
+       id="path4"
+       style="fill:#353535;fill-opacity:0.98941806;stroke:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
