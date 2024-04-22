@@ -1,10 +1,6 @@
 # Alexander Karyakin / Alex-grt
 ### Front-end Developer
 Hi! My name is Alexander.
-* I'm a beginner front-end developer.
-* I try to write clean, concise and understandable code.
-* I would like to gain experience in commercial website development.
-* I strive to become an excellent specialist in my field of activity.
 
 #### Stack:
 <p>  
